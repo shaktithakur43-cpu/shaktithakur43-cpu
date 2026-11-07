@@ -1,7 +1,7 @@
 # Shakti Thakur
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2C,45:0078D4,100:31D0AA&height=210&section=header&text=Shakti%20Thakur&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Azure%20DevOps%20%7C%20Cloud%20%7C%20AI%20%26%20AIOps&descSize=15&descAlignY=60&animation=fadeIn" alt="Shakti Thakur — Azure DevOps, Cloud, AI and AIOps" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2C,45:0078D4,100:31D0AA&height=210&section=header&text=Shakti%20Thakur&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Azure%20DevOps%20%7C%20Cloud%20%7C%20AI%20and%20AIOps&descSize=15&descAlignY=60&animation=fadeIn" alt="Shakti Thakur — Azure DevOps, Cloud, AI and AIOps" width="100%" />
 </p>
 
 <p align="center">
