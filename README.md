@@ -1,11 +1,7 @@
-## Hi there 👋
+# Shakti Thakur
 
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Shakti Thakur — Azure DevOps and cloud engineering" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/profile-banner.gif" alt="Animated DevOps delivery lifecycle" width="92%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2C,45:0078D4,100:31D0AA&height=210&section=header&text=Shakti%20Thakur&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Azure%20DevOps%20%7C%20Cloud%20%7C%20AI%20%26%20AIOps&descSize=15&descAlignY=60&animation=fadeIn" alt="Shakti Thakur — Azure DevOps, Cloud, AI and AIOps" width="100%" />
 </p>
 
 <p align="center">
@@ -16,6 +12,7 @@
 <p align="center">
   <a href="#engineering-focus">Engineering focus</a> &nbsp;·&nbsp;
   <a href="#architecture-notes">Architecture notes</a> &nbsp;·&nbsp;
+  <a href="#ai-ops">AI &amp; AIOps</a> &nbsp;·&nbsp;
   <a href="#leadership-and-portfolio">Leadership &amp; portfolio</a> &nbsp;·&nbsp;
   <a href="https://github.com/shaktithakur43-cpu">GitHub</a>
 </p>
@@ -137,6 +134,19 @@ A complementary checklist asks whether the solution is scalable, robust, portabl
 Use Azure Monitor and Log Analytics for centralized platform visibility where appropriate. Tune Azure Monitor Agent collection through Data Collection Rules. Route actionable Azure Monitor Action Group alerts to configured Microsoft Teams, Slack, PagerDuty, or ticketing/on-call destinations. Replication alone does not prove recoverability; test restore and failover procedures.
 
 </details>
+
+## AI, AIOps &amp; intelligent automation
+
+**Applied focus:** using AI to improve operational signal, engineering flow, and knowledge access—with human review, security, and measurable outcomes built in.
+
+| Area | Practical DevOps use | Engineering guardrail |
+| --- | --- | --- |
+| AIOps incident triage | Correlate alert and log context; draft an investigation summary | Engineer verifies evidence before action |
+| GenAI runbook assistant | Retrieve approved runbook guidance with source links | Respect access boundaries; ground answers in approved docs |
+| AI-assisted IaC review | Highlight risky Terraform or pipeline changes for reviewers | No autonomous production apply; keep PR approval |
+| MLOps foundations | Version models and data; monitor quality, drift, and deployment health | Define ownership, evaluation, rollback, and audit trail |
+
+These are architecture and portfolio focus areas; project links and implementation claims will be added when the corresponding work is published.
 
 ## Leadership and portfolio
 
